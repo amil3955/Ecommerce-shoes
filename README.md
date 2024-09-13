@@ -2,7 +2,7 @@
 
 Shop made in Next.JS and Strapi containing products from https://nike.com
 
-Repository with CMS: https://github.com/kriziu/shoes-ecommerce-cms
+Repository with CMS: https://github.com/amil3955/Ecommerce-shoes.git
 ## Features
 
 - Image optimization by NextJS Image and Cloudinary
@@ -21,9 +21,6 @@ Repository with CMS: https://github.com/kriziu/shoes-ecommerce-cms
 - Framer Motion
 - Stripe
 - Cloudinary
-## Demo
-
-LIVE DEMO https://shoes-ecommerce.herokuapp.com
 
 
 ## Environment Variables
@@ -49,7 +46,7 @@ To run this project, you will need to add the following environment variables to
 `NEXT_PUBLIC_CLOUDINARY_URL` (https://res.cloudinary.com/accountname/image/upload)
 ## Installation
 
-First, clone CMS and do steps in this repository: https://github.com/kriziu/shoes-ecommerce-cms
+First, clone CMS and do steps in this repository: https://github.com/amil3955/Ecommerce-shoes.git
 
 Make .env.local file and paste variables from upper section, then install as normal Next.JS application.
 ## Screenshots
