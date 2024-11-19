@@ -11,7 +11,6 @@ Repository with CMS: https://github.com/amil3955/Ecommerce-shoes.git
 - Reviews
 - Payment with Stripe
 - Sending emails using nodemailer
-- Good looking animations
 ## Made using
 - Next.JS
 - Recoil
